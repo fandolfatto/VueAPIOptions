@@ -11,21 +11,21 @@
         },
         {
           "id": 20201,
-          "category": 'Loisirs',
-          "title": 'Journée ski',
-          "description": 'Activité neige dans Ste-Croix et à la station des Rasses pour du ski de fond, ski de descente et randonnée.',
-          "location": 'Ste-Croix',
-          "date": '14 février 2025',
-          "time": '08:30'
+          "category": "Loisirs",
+          "title": "Journée ski",
+          "description": "Activité neige dans Ste-Croix et à la station des Rasses pour du ski de fond, ski de descente et randonnée.",
+          "location": "Ste-Croix",
+          "date": "14 février 2025",
+          "time": "08:30"
         },
         {
           "id": 30901,
-          "category": 'Loisirs',
-          "title": 'Semaine spéciale',
-          "description": 'Voyage à l\' étranger avec des activités proposées par les élèves.',
-          "location": 'Etranger',
-          "date": 'Septembre 2025',
-          "time": '06:00'
+          "category": "Loisirs",
+          "title": "Semaine spéciale",
+          "description": "Voyage à l\' étranger avec des activités proposées par les élèves.",
+          "location": "Etranger",
+          "date": "Septembre 2025",
+          "time": "06:00"
         }
       ]
 }   
