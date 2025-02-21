@@ -2,12 +2,12 @@
         "events": [
         {
           "id": 11101,
-          "category": 'Promotion',
-          "title": 'Portes ouvertes',
-          "description": 'Présentation des activités de la filière au public.',
-          "location": 'Nos locaux',
-          "date": '25 novembre 2024',
-          "time": '08:00'
+          "category": "Promotion",
+          "title": "Portes ouvertes",
+          "description": "Présentation des activités de la filière au public.",
+          "location": "Nos locaux",
+          "date": "25 novembre 2024",
+          "time": "08:00"
         },
         {
           "id": 20201,
